@@ -1,5 +1,5 @@
 -- BASE DATOS MEDINTEGRAL
-
+-- Creado por SIMEON CHACON MURILLO
 -- TABLA commusuario - USUARIOS DE LA BD 
 select * from commusuario												-- 118 usuarios 
 select * from commusuario where usuIdenUsuario ='10220478'				-- IdUsuario por C.C. usuIDUsuario 
